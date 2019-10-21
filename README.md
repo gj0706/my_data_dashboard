@@ -3,7 +3,7 @@ This is a flask app that visualizes data from the world bank API. Data is pulled
 
 This is a project in development for the Udacity Data Scientist Nanodegree. 
 
-## Link to Webapp [https://world-bank-dashboard-api.herokuapp.com](https://world-bank-dashboard-api.herokuapp.com)
+## Link to Webapp []()
 
 
 ## Project overview
